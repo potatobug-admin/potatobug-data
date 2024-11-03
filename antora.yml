@@ -1,10 +1,11 @@
 name: potatobug
+version: '1.0.0'
 title: Potato Bug
 start_page: index.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
-    
+
 # Content creator collections
 nav:
 - modules/ROOT/nav-root.adoc
