@@ -1,1 +1,2 @@
-* xref:rob-christian:rc-intro.adoc[Who is Rob Christian?]
+* Rob Christian
+** xref:rob-christian:rc-intro.adoc[Who is Rob Christian?]

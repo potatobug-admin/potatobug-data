@@ -1,1 +1,2 @@
-* xref:christian-prince:cp-intro.adoc[Who is Christian Prince?]
+* Christian Prince
+** xref:christian-prince:cp-intro.adoc[Who is Christian Prince?]

@@ -1,1 +1,2 @@
-* xref:david-wood:dwood-intro.adoc[Who is David Wood?]
+* David Wood
+** xref:david-wood:dwood-intro.adoc[Who is David Wood?]

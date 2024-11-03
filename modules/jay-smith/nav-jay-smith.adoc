@@ -1,1 +1,2 @@
-* xref:jay-smith:jaysmith-intro.adoc[Who is Jay Smith?]
+* Jay Smith
+** xref:jay-smith:jaysmith-intro.adoc[Who is Jay Smith?]
