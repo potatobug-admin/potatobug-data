@@ -1,5 +1,5 @@
 name: potatobug
-version: '1.0'
+version: ~
 title: Potato Bug
 start_page: index.adoc
 asciidoc:
