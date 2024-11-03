@@ -1,0 +1,15 @@
+name: potatobug
+title: Potato Bug
+start_page: index.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    
+# Content creator collections
+nav:
+- modules/ROOT/nav-root.adoc
+- modules/christian-prince/nav-cp.adoc
+- modules/rob-christian/nav-rc.adoc
+- modules/david-wood/nav-dwood.adoc
+- modules/apostate-prophet/nav-ap.adoc
+- modules/jay-smith/nav-jay-smith.adoc
