@@ -1,2 +1,2 @@
 # potatobug-data
- Data on potatos
+Data for potato lovers
