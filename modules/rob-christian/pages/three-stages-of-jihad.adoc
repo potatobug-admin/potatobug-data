@@ -38,7 +38,8 @@ Rob discusses early Islamic history, citing territorial conquests and conflicts,
 === Key Quranic Verses
 The following Quranic verses are presented in Arabic with English translations to support the points made.
 
-[quote, Surah Al-Baqarah (2:256)]
+[quote, Surah Al-Baqarah (2:256), Arabic]
+  لَا إِكْرَاهَ فِي الدِّينِ
 لَا إِكْرَاهَ فِي الدِّينِ
 
 [quote, Surah Al-Baqarah (2:256), English]
@@ -49,7 +50,7 @@ There is no compulsion in religion...
 * *Timestamp*: *2207.96*
 
 
-[quote, Surah At-Tawbah (9:5)]
+[quote, Surah At-Tawbah (9:5), Arabic]
  فَإِذَا انسَلَخَ الْأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ
 
 
