@@ -34,7 +34,7 @@ URL: https://legacy.quran.com/4/24
 
 === b. Hadith vs. Quran-Only Approach
 
-[.argument]
+[.guest]
 *Argument*: A guest advocates for a Quran-only perspective, citing Quran 6:114 to support the sufficiency of the Quran.
 
 *Reference*: Quran 6:114 emphasizes the Quran as a detailed scripture.
@@ -53,7 +53,7 @@ URL: https://quran.com/al-anam/6-114
 
 === c. Authenticity of Specific Quranic Verses
 
-[.argument]
+[.guest]
 *Argument*: The guest questions the authenticity of Quran 9:128-129, suggesting these verses may not be original.
 
 *Reference*: Quran 9:128-129 are part of the Quranic text.
