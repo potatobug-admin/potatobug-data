@@ -45,7 +45,9 @@ The following Quranic verses are presented in Arabic with English translations t
 [quote, Surah Al-Baqarah 2:256, English]
 There is no compulsion in religion...
 
+[.reference]
 * *Reference*: link:https://quran.com/2/256[]
+
 [.timestamp]
 * *Timestamp*: *2207.96*
 
@@ -57,8 +59,9 @@ There is no compulsion in religion...
 [quote, Surah At-Tawbah 9:5, English]
 When the sacred months have passed, then kill the polytheists wherever you find them...
 
-
+[.reference]
 * *Reference*: link:https://quran.com/9/5[]
+
 [.timestamp]
 * *Timestamp*: *1891.56*
 
@@ -69,12 +72,15 @@ When the sacred months have passed, then kill the polytheists wherever you find 
 [quote, Quran 5:51, English]
 O you who have believed, do not take the Jews and the Christians as allies..."
 
+[.reference]
 *Reference*: link:https://quran.com/5/51[]
+
 [.timestamp]
 *Timestamp*: *2650:28*
 
 == 5. Reference Links
 
+[.reference]
 - Surah 2:256: link:https://quran.com/2/256[]
 - Surah 9:5: link:https://quran.com/9/5[]
 - Surah 5:51: link:https://quran.com/5/51[]
