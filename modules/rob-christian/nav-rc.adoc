@@ -1,4 +1,4 @@
 * Rob Christian
 ** xref:rob-christian:rc-intro.adoc[Who is Rob Christian?]
-** xref:rob-christian:live-prophet-muhammad-married-women.adoc[Prophet Muhammad and Married Women]
 ** xref:rob-christian:three-stages-of-jihad.adoc[Three Stages of Jihad]
+** xref:rob-christian:live-prophet-muhammad-married-women.adoc[Prophet Muhammad and Married Women]

@@ -14,11 +14,13 @@ This document summarizes a video discussion focused on examining whether Islam i
 == Detailed Argument List
 
 
-=== Questions
+=== Arguments
 
+[.argument]
 *What is the basis for claiming Islam is a religion of peace?*
 Rob questions the claim that Islam is fundamentally peaceful, suggesting that the term _Islam means peace_ **is misleading**. Rob continues to argue that Islamic doctrine **supports violence**, and this claim is presented as contradictory to popular interpretations of Islam.
 
+[.argument]
 *How do Islamic sources discuss peace and conflict?*
 To support this line of questioning, the Rob references various Quranic verses, such as **Surah 4:34 and Surah 9:5**. He argues that these verses reveal Islamic perspectives on the use of violence.
 
@@ -43,6 +45,7 @@ The following Quranic verses are presented in Arabic with English translations t
 There is no compulsion in religion...
 
 * *Reference*: [Quran.com](https://quran.com/2/256)
+[.timestamp]
 * *Timestamp*: *2207.96*
 
 
@@ -55,6 +58,7 @@ When the sacred months have passed, then kill the polytheists wherever you find 
 
 
 * *Reference*: [Quran.com](https://quran.com/9/5)
+[.timestamp]
 * *Timestamp*: *1891.56*
 
 
@@ -65,6 +69,7 @@ When the sacred months have passed, then kill the polytheists wherever you find 
 O you who have believed, do not take the Jews and the Christians as allies..."
 
 *Reference*: [Quran.com](https://quran.com/5/51)
+[.timestamp]
 *Timestamp*: *2650:28*
 
 == 5. Reference Links
