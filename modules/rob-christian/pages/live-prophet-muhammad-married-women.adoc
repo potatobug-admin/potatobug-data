@@ -20,14 +20,15 @@ The video features a discussion on Islamic teachings, focusing on:
 
 *Reference*: Quran 4:24 discusses lawful and prohibited relationships.
 
-[quote]
-____
-**Quran 4:24**
-> وَالْمُحْصَنَاتُ مِنَ النِّسَاءِ إِلَّا مَا مَلَكَتْ أَيْمَانُكُمْ ۖ كِتَابَ اللَّهِ عَلَيْكُمْ ۚ وَأُحِلَّ لَكُم مَّا وَرَاءَ ذَٰلِكُمْ أَن تَبْتَغُوا بِأَمْوَالِكُم مُّحْصِنِينَ غَيْرَ مُسَافِحِينَ
-> *"And [also prohibited to you are all] married women except those your right hands possess. [This is] the decree of Allah upon you. And lawful to you are [all others] beyond these, provided that you seek them [in marriage] with [gifts from] your property, desiring chastity, not unlawful sexual intercourse."* 
-____
+[quote, Quran 4:24]
+وَالْمُحْصَنَاتُ مِنَ النِّسَاءِ إِلَّا مَا مَلَكَتْ أَيْمَانُكُمْ ۖ كِتَابَ اللَّهِ عَلَيْكُمْ ۚ وَأُحِلَّ لَكُم مَّا وَرَاءَ ذَٰلِكُمْ أَن تَبْتَغُوا بِأَمْوَالِكُم مُّحْصِنِينَ غَيْرَ مُسَافِحِينَ
 
-URL: https://legacy.quran.com/4/24
+
+[quote, Quran 4:24, English Translation]
+And [also prohibited to you are all] married women except those your right hands possess. [This is] the decree of Allah upon you. And lawful to you are [all others] beyond these, provided that you seek them [in marriage] with [gifts from] your property, desiring chastity, not unlawful sexual intercourse.
+
+
+**URL:** https://legacy.quran.com/4/24
 
 [.timestamp]
 *YouTube Timestamp*: https://www.youtube.com/watch?v=rt81XgJQoHE&t=1045s (17:25)
@@ -39,12 +40,13 @@ URL: https://legacy.quran.com/4/24
 
 *Reference*: Quran 6:114 emphasizes the Quran as a detailed scripture.
 
-[quote]
-____
-**Quran 6:114**
-> أَفَغَيْرَ اللَّهِ أَبْتَغِي حَكَمًا وَهُوَ الَّذِي أَنزَلَ إِلَيْكُمُ الْكِتَابَ مُفَصَّلًا
-> *"Then is it other than Allah I should seek as judge while it is He who has revealed to you the Book explained in detail?"*
-____
+[quote, Quran 6:114, Arabic]
+أَفَغَيْرَ اللَّهِ أَبْتَغِي حَكَمًا وَهُوَ الَّذِي أَنزَلَ إِلَيْكُمُ الْكِتَابَ مُفَصَّلًا
+
+
+[quote, Quran 6:114, English]
+Then is it other than Allah I should seek as judge while it is He who has revealed to you the Book explained in detail?
+
 
 URL: https://quran.com/al-anam/6-114
 
@@ -58,16 +60,21 @@ URL: https://quran.com/al-anam/6-114
 
 *Reference*: Quran 9:128-129 are part of the Quranic text.
 
-[quote]
-____
-**Quran 9:128**
-> لَقَدْ جَاءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ
-> *"There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you and to the believers is kind and merciful."*
+[quote, Quran 9:128, Arabic]
+لَقَدْ جَاءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ
 
-**Quran 9:129**
-> فَإِن تَوَلَّوْا فَقُلْ حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ
-> *"But if they turn away, [O Muhammad], say, 'Sufficient for me is Allah; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.'"*
-____
+
+[quote, Quran 9:128, English]
+There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you and to the believers is kind and merciful.
+
+
+[quote, Quran 9:129, Arabic]
+فَإِن تَوَلَّوْا فَقُلْ حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ
+
+
+[quote, Quran 9:129, English]
+But if they turn away, [O Muhammad], say, 'Sufficient for me is Allah; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.'
+
 
 URL: https://quran.com/at-tawbah/4
 
@@ -81,12 +88,13 @@ URL: https://quran.com/at-tawbah/4
 
 *Reference*: Quran 9:128 refers to the Prophet as "kind and merciful."
 
-[quote]
-____
-**Quran 9:128**
-> لَقَدْ جَاءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ
-> *"There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you and to the believers is kind and merciful."*
-____
+[quote, Quran 9:128, Arabic]
+لَقَدْ جَاءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ
+
+
+[quote, Quran 9:128, English]
+There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you and to the believers is kind and merciful.
+
 
 URL: https://quran.com/at-tawbah/4
 
@@ -100,12 +108,11 @@ URL: https://quran.com/at-tawbah/4
 
 *Reference*: Quran 53:3-4 highlights the Prophet's words as divine revelation.
 
-[quote]
-____
-**Quran 53:3-4**
-> وَمَا يَنطِقُ عَنِ الْهَوَىٰ . إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ
-> *"Nor does he speak from [his own] inclination. It is not but a revelation revealed."*
-____
+[quote, Quran 53:3-4, Arabic]
+وَمَا يَنطِقُ عَنِ الْهَوَىٰ . إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ
+
+[quote, Quran 53:3-4, English]
+Nor does he speak from [his own] inclination. It is not but a revelation revealed.
 
 URL: https://corpus.quran.com/translation.jsp?chapter=53&verse=4
 
