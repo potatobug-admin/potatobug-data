@@ -16,7 +16,7 @@ The video features a discussion on Islamic teachings, focusing on:
 === a. Prophet Muhammad's Morality and Actions
 
 [.argument]
-*Argument*: The host questions the Prophet's relationships with married women, suggesting potential conflicts with Islamic teachings on adultery.
+*Argument*: Rob questions the Prophet's relationships with married women, suggesting potential conflicts with Islamic teachings on adultery.
 
 *Reference*: Quran 4:24 discusses lawful and prohibited relationships.
 
@@ -77,7 +77,7 @@ URL: https://quran.com/at-tawbah/4
 === d. Divine Attributes and Prophetic Role
 
 [.argument]
-*Argument*: The host discusses the attribution of the title "Merciful" to the Prophet, traditionally reserved for Allah.
+*Argument*: Rob discusses the attribution of the title "Merciful" to the Prophet, traditionally reserved for Allah.
 
 *Reference*: Quran 9:128 refers to the Prophet as "kind and merciful."
 
@@ -96,7 +96,7 @@ URL: https://quran.com/at-tawbah/4
 === e. Rebuttals and Counterpoints
 
 [.rebuttal]
-*Argument*: The host challenges the Quran-only stance, emphasizing the traditional Sunni inclusion of Hadiths.
+*Argument*: Rob challenges the Quran-only stance, emphasizing the traditional Sunni inclusion of Hadiths.
 
 *Reference*: Quran 53:3-4 highlights the Prophet's words as divine revelation.
 
@@ -112,6 +112,3 @@ URL: https://corpus.quran.com/translation.jsp?chapter=53&verse=4
 [.timestamp]
 *YouTube Timestamp*: https://www.youtube.com/watch?v=rt81XgJQoHE&t=2182s (36:22)
 
-== References
-
-For each reference, the provided links lead to reputable Islamic sources where the verses can be read in full.
