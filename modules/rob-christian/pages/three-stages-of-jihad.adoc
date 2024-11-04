@@ -1,6 +1,6 @@
 = 🔴 LIVE: 3 stages of Jihad Explained!
 
-https://www.youtube.com/watch?v=Cu--teRtlmA
+link:https://www.youtube.com/watch?v=Cu--teRtlmA[]
 
 Rob Christian discusses Jhad and Isalm as violent in its foundational teachings. 
 
@@ -38,27 +38,27 @@ Rob discusses early Islamic history, citing territorial conquests and conflicts,
 === Key Quranic Verses
 The following Quranic verses are presented in Arabic with English translations to support the points made.
 
-[quote, Surah Al-Baqarah (2:256), Arabic]
+[quote, Surah Al-Baqarah 2:256, Arabic]
   لَا إِكْرَاهَ فِي الدِّينِ
 لَا إِكْرَاهَ فِي الدِّينِ
 
-[quote, Surah Al-Baqarah (2:256), English]
+[quote, Surah Al-Baqarah 2:256, English]
 There is no compulsion in religion...
 
-* *Reference*: [Quran.com](https://quran.com/2/256)
+* *Reference*: link:https://quran.com/2/256[]
 [.timestamp]
 * *Timestamp*: *2207.96*
 
 
-[quote, Surah At-Tawbah (9:5), Arabic]
+[quote, Surah At-Tawbah 9:5, Arabic]
  فَإِذَا انسَلَخَ الْأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ
 
 
-[quote, Surah At-Tawbah (9:5), English]
+[quote, Surah At-Tawbah 9:5, English]
 When the sacred months have passed, then kill the polytheists wherever you find them...
 
 
-* *Reference*: [Quran.com](https://quran.com/9/5)
+* *Reference*: link:https://quran.com/9/5[]
 [.timestamp]
 * *Timestamp*: *1891.56*
 
@@ -69,12 +69,12 @@ When the sacred months have passed, then kill the polytheists wherever you find 
 [quote, Quran 5:51, English]
 O you who have believed, do not take the Jews and the Christians as allies..."
 
-*Reference*: [Quran.com](https://quran.com/5/51)
+*Reference*: link:https://quran.com/5/51[]
 [.timestamp]
 *Timestamp*: *2650:28*
 
 == 5. Reference Links
 
-- Surah 2:256: [Quran.com](https://quran.com/2/256)
-- Surah 9:5: [Quran.com](https://quran.com/9/5)
-- Surah 5:51: [Quran.com](https://quran.com/5/51)
+- Surah 2:256: link:https://quran.com/2/256[]
+- Surah 9:5: link:https://quran.com/9/5[]
+- Surah 5:51: link:https://quran.com/5/51[]
